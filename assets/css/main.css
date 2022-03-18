@@ -1297,7 +1297,7 @@ input, select, textarea {
 			border-radius: 100%;
 		}
 
-			#header .logo .icon:before {
+			#header .logo {
 				font-size: 2rem;
 			}
 
